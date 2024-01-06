@@ -8,3 +8,5 @@
 ### Python
 ### Node.js
 ### HTML/CSS/JavaScript
+
+King's Collage London Exam Period: ~ 15.1.2024
