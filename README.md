@@ -9,5 +9,3 @@
 ### Node.js
 ### HTML/CSS/JavaScript
 ### ML
-
-# Happy birthday 🥳 2024.02.24
