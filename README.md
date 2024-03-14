@@ -8,5 +8,3 @@
 ### Python
 ### Node.js
 ### HTML/CSS/JavaScript
-
-#### Deepesh's birthday
