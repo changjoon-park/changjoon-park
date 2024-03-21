@@ -8,3 +8,6 @@
 ### Python
 ### Node.js
 ### HTML/CSS/JavaScript
+
+# Holidays in Iceland
+## Day 1 - 24.03.21
