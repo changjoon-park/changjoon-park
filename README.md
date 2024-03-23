@@ -11,3 +11,6 @@
 
 # Holidays in Iceland
 ## Day 1 - 24.03.21
+## Day 2 - 24.03.22
+## Day 3 - 24.03.23
+- I saw Nortehrn Light Today!!
