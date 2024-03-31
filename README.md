@@ -8,5 +8,3 @@
 ### Python
 ### Node.js
 ### HTML/CSS/JavaScript
-
-### last coursework: 3.30 ~ 4.02
