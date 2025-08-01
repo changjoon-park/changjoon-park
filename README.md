@@ -13,6 +13,3 @@
 ### React/NextJS/TanStack
 
 #### Electron/Tauri
-
-# (2025.7.31) Today is my Graduation Ceremony !
-## Congraturation !!
