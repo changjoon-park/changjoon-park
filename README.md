@@ -12,4 +12,5 @@
 ### HTML/CSS/JavaScript
 ### React/NextJS/TanStack
 
-#### Electron/Tauri
+#### Electron
+#### Tauri
