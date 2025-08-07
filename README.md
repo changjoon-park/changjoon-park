@@ -14,5 +14,3 @@
 
 #### Electron
 #### Tauri
-
-Business Trip (6.8 - 8.8)
