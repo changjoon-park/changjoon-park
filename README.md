@@ -14,5 +14,3 @@
 
 #### Electron
 #### Tauri
-
-day off
