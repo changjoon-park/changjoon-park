@@ -12,6 +12,3 @@
 ### Node.js
 ### HTML/CSS/JavaScript
 ### React/NextJS/TanStack
-
-#### Electron
-#### Tauri
