@@ -5,6 +5,7 @@
 ## Digital Forensics & Incident Response
 ## Digital Forensic Tools Development
 ## Threat Hunting
+## Malware Analysis
 
 ### Rust
 ### Python
