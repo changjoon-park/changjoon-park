@@ -13,3 +13,6 @@
 ### Node.js
 ### HTML/CSS/JavaScript
 ### React/NextJS/TanStack
+
+#### Vibe Coding
+#### Context Engineering
