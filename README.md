@@ -7,20 +7,13 @@
 
 ## About
 
-I work in digital forensics — the byte-level view. How filesystems lay out
-their records, how Windows scatters application state across dozens of
-artifacts, how browsers persist traces in SQLite.
+Based in Seoul. I work on digital forensic tooling — filesystem parsers,
+Windows artifact decoders, analyst workflow pipelines.
 
-Mostly Rust these days. Occasional Python, TypeScript. I prefer the end of
-the stack where decisions are irreversible.
+## Tech
 
-## Areas
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="stack-dark.svg">
-  <img src="stack-light.svg" alt="Forensic stack — analysis, artifacts, filesystem, volume, device">
-</picture>
+Rust · Python · TypeScript · SQL
 
 ## Contact
 
-`sisyphus9402@gmail.com`
+sisyphus9402@gmail.com
