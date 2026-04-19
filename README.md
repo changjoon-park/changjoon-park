@@ -1,18 +1,12 @@
-### Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
+  <img src="banner-light.svg" alt="changjoon-park — digital forensics engineer">
+</picture>
 
-# Welcome to Changjoon's Github Page
+---
 
-## Digital Forensics & Incident Response
-## Digital Forensic Tools Development
-## Threat Hunting
-## Malware Analysis
+Digital forensics engineer.
 
-### Rust
-### Python
-### Powershell
-### Node.js
-### HTML/CSS/JavaScript
-### React/NextJS/TanStack
+**Occasionally** — upstream contributions to [RustPython](https://github.com/RustPython/RustPython/pulls?q=author%3Achangjoon-park), Vortex, LanceDB, Lance.
 
-#### Vibe Coding
-#### Context Engineering
+sisyphus9402@gmail.com
