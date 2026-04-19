@@ -1,5 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="100" viewBox="0 0 960 100" fill="none" role="img" aria-label="the bytes are still there">
-  <rect x="0" y="0" width="960" height="100" fill="#fdeade"/>
+  <defs>
+    <linearGradient id="bgc" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fef9ed"/>
+      <stop offset="50%" stop-color="#fdeade"/>
+      <stop offset="100%" stop-color="#fbd9b5"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="960" height="100" fill="url(#bgc)"/>
 
   <text x="20" y="28" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="13" xml:space="preserve"><tspan fill="#71717a">00000030  </tspan><tspan fill="#52525b">74 68 65 20 </tspan><tspan fill="#d97706" font-weight="600">62 79 74 65  73</tspan><tspan fill="#52525b"> 20 61 72 65 20 73 74  |the </tspan><tspan fill="#d97706" font-weight="600">bytes</tspan><tspan fill="#52525b"> are st|</tspan></text>
 

@@ -1,7 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240" fill="none" role="img" aria-label="changjoon-park — digital forensics engineer">
-  <rect x="0" y="0" width="960" height="240" fill="#1c1917"/>
-
   <defs>
+    <linearGradient id="bgd" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1c1917"/>
+      <stop offset="50%" stop-color="#292420"/>
+      <stop offset="100%" stop-color="#3a3028"/>
+    </linearGradient>
     <clipPath id="reveal2d">
       <rect x="0" y="140" width="0" height="24">
         <animate attributeName="width" values="0;640" begin="0.5s" dur="1.5s" fill="freeze"/>
@@ -13,6 +16,8 @@
       </rect>
     </clipPath>
   </defs>
+
+  <rect x="0" y="0" width="960" height="240" fill="url(#bgd)"/>
 
   <text x="20" y="48" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="24" font-weight="600" fill="#f4f4f5" letter-spacing="-0.3">changjoon-park</text>
 
