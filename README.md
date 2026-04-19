@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg?v=4">
-  <img src="banner-light.svg?v=4" alt="changjoon-park — digital forensics engineer" width="640" height="240">
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg?v=5">
+  <img src="banner-light.svg?v=5" alt="changjoon-park — digital forensics engineer" width="640" height="240">
 </picture>
 
 ---
