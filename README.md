@@ -15,13 +15,9 @@ models, and the slow craft of reading byte layouts from specs.
 
 ## Tech
 
-<img src="https://cdn.simpleicons.org/rust/d97706" width="16" height="16" alt=""> Rust &nbsp;·&nbsp;
-<img src="https://cdn.simpleicons.org/python/d97706" width="16" height="16" alt=""> Python &nbsp;·&nbsp;
-<img src="https://cdn.simpleicons.org/typescript/d97706" width="16" height="16" alt=""> TypeScript &nbsp;·&nbsp;
-<img src="https://cdn.simpleicons.org/sqlite/d97706" width="16" height="16" alt=""> SQL
+<img src="https://cdn.simpleicons.org/rust/d97706" width="16" height="16" alt=""> Rust &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/python/d97706" width="16" height="16" alt=""> Python &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/typescript/d97706" width="16" height="16" alt=""> TypeScript &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/sqlite/d97706" width="16" height="16" alt=""> SQL
 
-Day-to-day Rust. Python for analysis scripts. TypeScript for frontends.
-SQL for evidence queries.
+Day-to-day Rust. Python for analysis scripts. TypeScript for frontends. SQL for evidence queries.
 
 ## Contact
 
