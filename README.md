@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg?v=6">
-  <img src="banner-light.svg?v=6" alt="changjoon-park — digital forensics engineer" width="640" height="240">
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg?v=7">
+  <img src="banner-light.svg?v=7" alt="changjoon-park — digital forensics engineer" width="960" height="240">
 </picture>
 
 ---
@@ -21,6 +21,6 @@ sisyphus9402@gmail.com
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="closing-dark.svg?v=1">
-  <img src="closing-light.svg?v=1" alt="the bytes are still there" width="640" height="100">
+  <source media="(prefers-color-scheme: dark)" srcset="closing-dark.svg?v=2">
+  <img src="closing-light.svg?v=2" alt="the bytes are still there" width="960" height="100">
 </picture>

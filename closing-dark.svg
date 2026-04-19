@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="100" viewBox="0 0 640 100" fill="none" role="img" aria-label="the bytes are still there">
-  <rect x="0.5" y="0.5" width="639" height="99" fill="#1c1c1f" stroke="#3f3f46" stroke-width="1" rx="4"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="100" viewBox="0 0 960 100" fill="none" role="img" aria-label="the bytes are still there">
+  <rect x="0" y="0" width="960" height="100" fill="#1c1917"/>
 
   <text x="20" y="28" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="13" xml:space="preserve"><tspan fill="#a1a1aa">00000030  </tspan><tspan fill="#d4d4d8">74 68 65 20 </tspan><tspan fill="#fbbf24" font-weight="600">62 79 74 65  73</tspan><tspan fill="#d4d4d8"> 20 61 72 65 20 73 74  |the </tspan><tspan fill="#fbbf24" font-weight="600">bytes</tspan><tspan fill="#d4d4d8"> are st|</tspan></text>
 
