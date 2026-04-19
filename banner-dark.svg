@@ -1,6 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240" fill="none" role="img" aria-label="changjoon-park — digital forensics engineer">
   <rect x="0" y="0" width="960" height="240" fill="#1c1917"/>
 
+  <defs>
+    <clipPath id="reveal2d">
+      <rect x="0" y="140" width="0" height="24">
+        <animate attributeName="width" values="0;640" begin="0.5s" dur="1.5s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="reveal3d">
+      <rect x="0" y="162" width="0" height="24">
+        <animate attributeName="width" values="0;640" begin="2s" dur="1.5s" fill="freeze"/>
+      </rect>
+    </clipPath>
+  </defs>
+
   <text x="20" y="48" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="24" font-weight="600" fill="#f4f4f5" letter-spacing="-0.3">changjoon-park</text>
 
   <text x="20" y="74" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="13" font-weight="400" fill="#a1a1aa" letter-spacing="0.1">digital forensics engineer</text>
@@ -9,9 +22,13 @@
 
   <text x="20" y="134" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="13" xml:space="preserve"><tspan fill="#a1a1aa">00000000  </tspan><tspan fill="#fbbf24" font-weight="600">46 49 4c 45</tspan><tspan fill="#d4d4d8"> 30 00 03 00  8a 7c 12 00 00 00 00 00  |</tspan><tspan fill="#fbbf24" font-weight="600">FILE</tspan><tspan fill="#d4d4d8">0...|.......|</tspan></text>
 
-  <text x="20" y="156" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="13" xml:space="preserve"><tspan fill="#a1a1aa">00000010  </tspan><tspan fill="#d4d4d8">69 20 64 65 63 6f 64 65  20 77 68 61 74 20 6f 74  |i decode what ot|</tspan></text>
+  <g clip-path="url(#reveal2d)">
+    <text x="20" y="156" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="13" xml:space="preserve"><tspan fill="#a1a1aa">00000010  </tspan><tspan fill="#d4d4d8">69 20 64 65 63 6f 64 65  20 77 68 61 74 20 6f 74  |i decode what ot|</tspan></text>
+  </g>
 
-  <text x="20" y="178" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="13" xml:space="preserve"><tspan fill="#a1a1aa">00000020  </tspan><tspan fill="#d4d4d8">68 65 72 73 20 64 65 6c  65 74 65 2e 00 00 00 00  |hers delete.....|</tspan></text>
+  <g clip-path="url(#reveal3d)">
+    <text x="20" y="178" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="13" xml:space="preserve"><tspan fill="#a1a1aa">00000020  </tspan><tspan fill="#d4d4d8">68 65 72 73 20 64 65 6c  65 74 65 2e 00 00 00 00  |hers delete.....|</tspan></text>
+  </g>
 
-  <text x="20" y="212" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11" font-weight="400" fill="#71717a" letter-spacing="0.2">fig. 0 — read between the bytes</text>
+  <text x="20" y="212" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11" font-weight="400" fill="#71717a" letter-spacing="0.2" opacity="0">fig. 0 — read between the bytes<animate attributeName="opacity" from="0" to="1" begin="3.5s" dur="0.5s" fill="freeze"/></text>
 </svg>
