@@ -1,13 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="180" viewBox="0 0 600 180" fill="none" role="img" aria-label="changjoon-park — digital forensics engineer">
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="240" viewBox="0 0 640 240" fill="none" role="img" aria-label="changjoon-park — digital forensics engineer">
   <text x="0" y="48" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="24" font-weight="600" fill="#18181b" letter-spacing="-0.3">changjoon-park</text>
 
   <text x="0" y="74" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="13" font-weight="400" fill="#71717a" letter-spacing="0.1">digital forensics engineer</text>
 
   <line x1="0" y1="100" x2="500" y2="100" stroke="#e4e4e7" stroke-width="1"/>
 
-  <text x="0" y="136" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="15" xml:space="preserve"><tspan fill="#71717a">00000000  </tspan><tspan fill="#d97706" font-weight="600">46 49 4c 45</tspan><tspan fill="#52525b">  30 00 03 00   8a 7c 12 00  00 00 00 00</tspan></text>
+  <text x="0" y="134" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="13" xml:space="preserve"><tspan fill="#71717a">00000000  </tspan><tspan fill="#d97706" font-weight="600">46 49 4c 45</tspan><tspan fill="#52525b"> 30 00 03 00  8a 7c 12 00 00 00 00 00  |</tspan><tspan fill="#d97706" font-weight="600">FILE</tspan><tspan fill="#52525b">0...|.......|</tspan></text>
 
-  <text x="90" y="155" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="600" fill="#b45309" letter-spacing="17.5">FILE</text>
+  <text x="0" y="156" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="13" xml:space="preserve"><tspan fill="#71717a">00000010  </tspan><tspan fill="#52525b">69 20 64 65 63 6f 64 65  20 77 68 61 74 20 6f 74  |i decode what ot|</tspan></text>
 
-  <text x="0" y="175" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11" font-weight="400" fill="#a1a1aa" letter-spacing="0.2">fig. 0 — ntfs mft record, first 16 bytes</text>
+  <text x="0" y="178" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="13" xml:space="preserve"><tspan fill="#71717a">00000020  </tspan><tspan fill="#52525b">68 65 72 73 20 64 65 6c  65 74 65 2e 00 00 00 00  |hers delete.....|</tspan></text>
+
+  <text x="0" y="212" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11" font-weight="400" fill="#a1a1aa" letter-spacing="0.2">fig. 0 — ntfs mft record, with a trailing note</text>
 </svg>
